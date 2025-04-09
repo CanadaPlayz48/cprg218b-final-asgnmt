@@ -1,6 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
 body {
     font-family: 'Titillium Web', 'Trebuchet MS', 'Lucida Sans', sans-serif;
     background-color: #f4f4f4;
     margin: 0;
+}
+
+#top {
+    display: flex;
+    flex-direction: column;
+  }
+
+#header {
+    background-color: navy;
+    width: auto;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+#header h1{
+    font-size: 50px;
+    margin-top: 0;
+    padding-top: 50px;
+}
+
+#header h2 {
+    font-size: 30px;
+    margin-top: 0;
+}
+
+#weather {
+    background-color: #ffffff;
     padding: 20px;
+    width: auto;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.weather-summary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.weather-summary img {
+    width: 50px; /* adjust size as needed */
+    height: auto;
+}
+
+nav {
+	display: flex;
+    background-color: #0066ff;
+    padding: 1rem
+}
+nav ul li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 1.5rem;
+}
+nav ul li:last-of-type {
+	margin-right: 0;
+}
+nav ul li a {
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+}
+nav ul li a:hover {
+	color: orange;
+	text-decoration: underline;
 }
