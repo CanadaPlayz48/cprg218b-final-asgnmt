@@ -40,6 +40,17 @@ Photo by <a href="https://unsplash.com/@genefoto?utm_content=creditCopyText&utm_
       
 ### Homepage
 Photo by <a href="https://unsplash.com/@louishansel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Louis Hansel</a> on <a href="https://unsplash.com/photos/cooked-food-served-on-black-bowl-in24HLtOqyI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+All other images were used in other parts of the site
+
+### Dining
+Photo by <a href="https://unsplash.com/@ninjason?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jason Leung</a> on <a href="https://unsplash.com/photos/photo-of-pub-set-in-room-during-daytime-poI7DelFiVA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
+Photo by <a href="https://unsplash.com/@hardeepjpg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hardeep Singh</a> on <a href="https://unsplash.com/photos/a-row-of-tables-sitting-next-to-a-yellow-building-35llACBWkbw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+Photo by <a href="https://unsplash.com/@marthamonjaras?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Martha Monjaras</a> on <a href="https://unsplash.com/photos/a-coffee-shop-with-tables-and-chairs-around-it-CyxtPWoKdVA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+Photo by <a href="https://unsplash.com/@byrdman85?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ashley Byrd</a> on <a href="https://unsplash.com/photos/brown-wooden-chairs-and-tables-fWBcjhd47H8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 
 All other images were provided as a part of the assignment
