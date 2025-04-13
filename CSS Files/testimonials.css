@@ -1,0 +1,33 @@
+.reviewBox {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
+  }
+  
+  .reviewBox img {
+    width: 10rem;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .reviewText {
+    flex: 1;
+  }
+
+  @media screen and (max-width: 600px) {
+    .reviewBox {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+  
+    .reviewBox img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+  
+    .reviewText {
+        text-align: left;
+    }
+  }

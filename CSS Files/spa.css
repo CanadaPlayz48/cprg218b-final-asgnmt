@@ -1,6 +1,5 @@
 #services {
     display: grid;
-    grid-template-columns: 1fr 1fr;
 }
 
 dt {
@@ -30,10 +29,6 @@ dd {
     font-weight: bold;
 }
 
-#services > *:last-child {
-    grid-column: span 2;
-}
-
 #services img {
     max-width: 80%;
 }
@@ -42,9 +37,7 @@ dd {
     #services {
     grid-template-columns: 1fr;
     }
-    .room-image {
-        max-width: 100%;
-    }
+
 }
 
 @media screen and (min-width: 601px) {
@@ -54,7 +47,9 @@ dd {
         gap: 20px;
         padding: 1rem;
     }
-    .room-image {
-        max-width: 80%;
+
+    #services > *:last-child {
+        grid-column: span 2;
     }
+
 }

@@ -59,5 +59,13 @@ Photo by <a href="https://unsplash.com/@rosarafael?utm_content=creditCopyText&ut
       
 Photo by <a href="https://unsplash.com/@giorgiotrovato?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Giorgio Trovato</a> on <a href="https://unsplash.com/photos/a-woman-getting-her-nails-done-at-a-nail-salon-gb6gtiTZKB8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
+### Testimonials
+Photo by <a href="https://unsplash.com/@christianbuehner?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christian Buehner</a> on <a href="https://unsplash.com/photos/mens-blue-and-white-button-up-collared-top-DItYlc26zVI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@marivi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marivi Pazos</a> on <a href="https://unsplash.com/photos/woman-smiling-near-tree-cvpk5Y4ZWUs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+Photo by <a href="https://unsplash.com/@chrisjoelcampbell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christopher Campbell</a> on <a href="https://unsplash.com/photos/shallow-focus-photography-of-woman-outdoor-during-day-rDEOVtE7vOs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+Photo by <a href="https://unsplash.com/@jkakaroto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jonas Kakaroto</a> on <a href="https://unsplash.com/photos/man-crossing-both-arms-KIPqvvTOC1s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 All other images were provided as a part of the assignment
