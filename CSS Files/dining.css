@@ -1,0 +1,10 @@
+#restaurants ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.diningDetails {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
