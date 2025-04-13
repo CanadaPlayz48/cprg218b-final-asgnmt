@@ -1,0 +1,60 @@
+#services {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+dd {
+    padding: 0.1em;
+}
+
+#services h3 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+#services section {
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+
+#services li {
+    list-style-type: none;
+    font-weight: bold;
+}
+
+.timeCost {
+    font-weight: bold;
+}
+
+#services > *:last-child {
+    grid-column: span 2;
+}
+
+#services img {
+    max-width: 80%;
+}
+
+@media screen and (max-width: 600px) {
+    #services {
+    grid-template-columns: 1fr;
+    }
+    .room-image {
+        max-width: 100%;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    #services {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        padding: 1rem;
+    }
+    .room-image {
+        max-width: 80%;
+    }
+}

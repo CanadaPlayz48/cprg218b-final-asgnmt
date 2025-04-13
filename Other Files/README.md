@@ -52,5 +52,12 @@ Photo by <a href="https://unsplash.com/@marthamonjaras?utm_content=creditCopyTex
       
 Photo by <a href="https://unsplash.com/@byrdman85?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ashley Byrd</a> on <a href="https://unsplash.com/photos/brown-wooden-chairs-and-tables-fWBcjhd47H8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
+### Spa
+Photo by <a href="https://unsplash.com/@rosarafael?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rosa Rafael</a> on <a href="https://unsplash.com/photos/woman-massaged-cJwl8182Mjs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+Photo by <a href="https://unsplash.com/@rosarafael?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rosa Rafael</a> on <a href="https://unsplash.com/photos/man-wearing-mud-mask-Pe9IXUuC6QU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+Photo by <a href="https://unsplash.com/@giorgiotrovato?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Giorgio Trovato</a> on <a href="https://unsplash.com/photos/a-woman-getting-her-nails-done-at-a-nail-salon-gb6gtiTZKB8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 
 All other images were provided as a part of the assignment
