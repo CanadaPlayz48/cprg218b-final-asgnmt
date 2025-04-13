@@ -1,0 +1,29 @@
+#rooms {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 1rem;
+}
+
+#rooms ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#rooms section {
+    list-style-type: none;
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+#rooms > *:last-child {
+    grid-column: span 2;
+}
+
+#rooms p {
+    margin: 0;
+    padding: 0.5rem 0;
+}
+
+.room-image {
+    max-width: 100%;
+}

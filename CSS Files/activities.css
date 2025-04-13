@@ -1,0 +1,56 @@
+.subList {
+    margin-left: 2em;
+}
+
+#activities ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#activities section {
+    list-style-type: none;
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+
+
+#activities li {
+    margin: 0;
+    padding: 0.5rem 0;
+}
+
+#activities img {
+    max-width: 50%;
+}
+
+.subList p {
+    font-size: 0.9em;
+}
+
+@media screen and (max-width: 600px) {
+    #activities {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    #activities img {
+        max-width: 100%;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    #activities{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        padding: 1rem;
+    }
+    #activities > *:last-child {
+        grid-column: span 2;
+    }
+
+}

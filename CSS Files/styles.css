@@ -10,10 +10,7 @@ body {
     margin: 0;
 }
 
-h1 {
-    font-size: 3vw;
-    text-align: center;
-}
+
 #top {
     display: flex;
     flex-direction: column;
@@ -41,11 +38,11 @@ h1 {
 }
 
 #subheader h1 {
-    font-size: 3vw;
+    font-size: 3em;
 }
 
 #subheader h2 {
-    font-size: 2vw;
+    font-size: 1em;
 }
 #weather {
     background-color: #ffffff;
@@ -54,7 +51,7 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 1rem;
-    font-size: 1vw;
+    font-size: 1em;
 }
 
 .weather-summary {
@@ -65,7 +62,7 @@ h1 {
 }
 
 .weather-summary img {
-    width: 10%;
+    width: 5%;
     height: auto;
 }
 
@@ -75,12 +72,12 @@ nav {
     padding: 1rem;
     align-items: center;
     justify-content: center;
-    font-size: 1.5vw;
+    font-size: 1em;
 }
 nav ul li {
 	list-style-type: none;
 	display: inline;
-	margin-right: 1.5rem;
+	margin-right: 1rem;
 }
 nav ul li:last-of-type {
 	margin-right: 0;
@@ -98,7 +95,7 @@ main {
     justify-content: center;
     text-align: center;
     padding: 1rem;
-    font-size: 1vw;
+    font-size: 1em;
 }
 
 main h2 {
@@ -139,7 +136,7 @@ main h2 {
 
 #footer {
     background-color: navy;
-    font-size: 1.5vw;
+    font-size: 1em;
     color: white;
     text-align: center;
     padding: 1rem;
@@ -153,28 +150,56 @@ main h2 {
     text-decoration: none;
 }
 
-#rooms {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
+@media screen and (max-width: 600px) {
+    #header {
+        padding: 1rem;
+    }
+    #logo {
+        width: 100%;
+        height: auto;
+    }
+    #subheader h1 {
+        font-size: 2em;
+    }
+    #subheader h2 {
+        font-size: 0.8em;
+    }
+    nav ul li {
+        margin-right: 0.5rem;
+    }
+    nav ul li a {
+        font-size: 0.8em;
+    }
+    main h2 {
+        font-size: 1.5em;
+    }
 }
 
-#rooms ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-#rooms section {
-    list-style-type: none;
-    padding: 1rem;
-    border: 1px solid #ccc;
-}
-#rooms > *:last-child {
-    grid-column: span 2;
-}
+@media screen and (min-width: 601px) {
+    #header {
+        padding: 2rem;
+    }
+    #logo {
+        width: 50%;
+        height: auto;
+    }
+    #subheader h1 {
+        font-size: 3em;
+    }
+    #subheader h2 {
+        font-size: 1.5em;
+    }
+    nav ul li {
+        margin-right: 1rem;
+    }
+    nav ul li a {
+        font-size: 1em;
+    }
+    main h2 {
+        font-size: 2em;
+    }
 
-
-
-.room-image {
-    max-width: 100%;
+    h1 {
+        font-size: 3rem;
+    }
 }
