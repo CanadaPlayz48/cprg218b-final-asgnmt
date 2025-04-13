@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-    font-size: 4vw;
+    font-size: 3vw;
     text-align: center;
 }
 #top {
@@ -41,11 +41,11 @@ h1 {
 }
 
 #subheader h1 {
-    font-size: 4vw;
+    font-size: 3vw;
 }
 
 #subheader h2 {
-    font-size: 3vw;
+    font-size: 2vw;
 }
 #weather {
     background-color: #ffffff;
@@ -54,7 +54,7 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 1rem;
-    font-size: 2vw;
+    font-size: 1vw;
 }
 
 .weather-summary {
@@ -75,7 +75,7 @@ nav {
     padding: 1rem;
     align-items: center;
     justify-content: center;
-    font-size: 2.5vw;
+    font-size: 1.5vw;
 }
 nav ul li {
 	list-style-type: none;
@@ -98,7 +98,7 @@ main {
     justify-content: center;
     text-align: center;
     padding: 1rem;
-    font-size: 2vw;
+    font-size: 1vw;
 }
 
 main h2 {
@@ -114,7 +114,7 @@ main h2 {
     padding: 1rem;
 }
 
-#rooms {
+#roomsHome {
     padding: 1rem;
 }
 
@@ -139,7 +139,7 @@ main h2 {
 
 #footer {
     background-color: navy;
-    font-size: 2.5vw;
+    font-size: 1.5vw;
     color: white;
     text-align: center;
     padding: 1rem;
@@ -151,4 +151,30 @@ main h2 {
 #footer a {
     color: white;
     text-decoration: none;
+}
+
+#rooms {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+#rooms ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#rooms section {
+    list-style-type: none;
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+#rooms > *:last-child {
+    grid-column: span 2;
+}
+
+
+
+.room-image {
+    max-width: 100%;
 }
