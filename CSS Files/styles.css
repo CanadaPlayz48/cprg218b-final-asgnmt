@@ -10,6 +10,9 @@ body {
     margin: 0;
 }
 
+p {
+    padding: 0.5rem;
+}
 
 #top {
     display: flex;
@@ -115,24 +118,6 @@ main h2 {
     padding: 1rem;
 }
 
-#hero {
-    background-image: url('/Images/Photos/hero.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 400px;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#hero h2, #hero p {
-    color: white;
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 1rem;
-    border-radius: 10px;
-}
 
 #footer {
     background-color: navy;
@@ -173,6 +158,30 @@ main h2 {
     main h2 {
         font-size: 1.5em;
     }
+
+    #moments img {
+        max-width: 100%;
+    }
+
+    #hero {
+        background-image: url('/Images/Photos/hero.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 400px;
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    #hero h2, #hero p {
+        color: white;
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 1rem;
+        border-radius: 10px;
+    }
 }
 
 @media screen and (min-width: 601px) {
@@ -201,5 +210,27 @@ main h2 {
 
     h1 {
         font-size: 3rem;
+    }
+    #moments img {
+        max-width: 70%;
+    }
+
+    #hero {
+        background-image: url('/Images/Photos/hero.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 400px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    #hero h2, #hero p {
+        color: white;
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 1rem;
+        border-radius: 10px;
     }
 }

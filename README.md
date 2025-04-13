@@ -38,5 +38,8 @@ Photo by <a href="https://unsplash.com/@snvkkiran?utm_content=creditCopyText&utm
       
 Photo by <a href="https://unsplash.com/@genefoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Gene Gallin</a> on <a href="https://unsplash.com/photos/people-riding-on-white-boat-during-daytime-_-PALv-NrN8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
+### Homepage
+Photo by <a href="https://unsplash.com/@louishansel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Louis Hansel</a> on <a href="https://unsplash.com/photos/cooked-food-served-on-black-bowl-in24HLtOqyI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 
 All other images were provided as a part of the assignment
