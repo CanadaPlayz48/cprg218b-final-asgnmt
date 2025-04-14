@@ -1,9 +1,9 @@
 # cprg218b-final-asgnmt
 
 ## Attributions 
-
+All code was created by me (Radzil Bunag)
 ### activities page
-Custom Images Used
+Custom Images Used (All of these are copied from Unsplash's attributions link)
 Photo by <a href="https://unsplash.com/@bchild311?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Benjamin Child</a> on <a href="https://unsplash.com/photos/woman-in-black-tank-top-and-black-pants-sitting-on-green-grass-field-during-daytime-rOn57CBgyMo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo by <a href="https://unsplash.com/@realkayls?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kaylee Garrett</a> on <a href="https://unsplash.com/photos/five-woman-standing-on-seashore-GaprWyIw66o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -39,11 +39,13 @@ Photo by <a href="https://unsplash.com/@snvkkiran?utm_content=creditCopyText&utm
 Photo by <a href="https://unsplash.com/@genefoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Gene Gallin</a> on <a href="https://unsplash.com/photos/people-riding-on-white-boat-during-daytime-_-PALv-NrN8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
 ### Homepage
+Custom Images Used (All of these are copied from Unsplash's attributions link)
 Photo by <a href="https://unsplash.com/@louishansel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Louis Hansel</a> on <a href="https://unsplash.com/photos/cooked-food-served-on-black-bowl-in24HLtOqyI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 All other images were used in other parts of the site
 
 ### Dining
+Custom Images Used (All of these are copied from Unsplash's attributions link)
 Photo by <a href="https://unsplash.com/@ninjason?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jason Leung</a> on <a href="https://unsplash.com/photos/photo-of-pub-set-in-room-during-daytime-poI7DelFiVA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
 Photo by <a href="https://unsplash.com/@hardeepjpg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hardeep Singh</a> on <a href="https://unsplash.com/photos/a-row-of-tables-sitting-next-to-a-yellow-building-35llACBWkbw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -53,6 +55,7 @@ Photo by <a href="https://unsplash.com/@marthamonjaras?utm_content=creditCopyTex
 Photo by <a href="https://unsplash.com/@byrdman85?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ashley Byrd</a> on <a href="https://unsplash.com/photos/brown-wooden-chairs-and-tables-fWBcjhd47H8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ### Spa
+Custom Images Used (All of these are copied from Unsplash's attributions link)
 Photo by <a href="https://unsplash.com/@rosarafael?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rosa Rafael</a> on <a href="https://unsplash.com/photos/woman-massaged-cJwl8182Mjs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
 Photo by <a href="https://unsplash.com/@rosarafael?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rosa Rafael</a> on <a href="https://unsplash.com/photos/man-wearing-mud-mask-Pe9IXUuC6QU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -62,6 +65,7 @@ Photo by <a href="https://unsplash.com/@giorgiotrovato?utm_content=creditCopyTex
 Photo by <a href="https://unsplash.com/@runejohs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rune Enstad</a> on <a href="https://unsplash.com/photos/persons-feet-with-flowers-qeuJczNo54w?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
 ### Testimonials
+Custom Images Used (All of these are copied from Unsplash's attributions link)
 Photo by <a href="https://unsplash.com/@christianbuehner?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christian Buehner</a> on <a href="https://unsplash.com/photos/mens-blue-and-white-button-up-collared-top-DItYlc26zVI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo by <a href="https://unsplash.com/@marivi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marivi Pazos</a> on <a href="https://unsplash.com/photos/woman-smiling-near-tree-cvpk5Y4ZWUs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -70,4 +74,4 @@ Photo by <a href="https://unsplash.com/@chrisjoelcampbell?utm_content=creditCopy
       
 Photo by <a href="https://unsplash.com/@jkakaroto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jonas Kakaroto</a> on <a href="https://unsplash.com/photos/man-crossing-both-arms-KIPqvvTOC1s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-All other images were provided as a part of the assignment
+### All other images were provided as a part of the assignment
