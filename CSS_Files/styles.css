@@ -164,7 +164,7 @@ main h2 {
     }
 
     #hero {
-        background-image: url('/Images/Photos/hero.jpg');
+        background-image: url('../Images/Photos/hero.jpg');
         background-repeat: no-repeat;
         background-position: center;
         height: 400px;
@@ -216,7 +216,7 @@ main h2 {
     }
 
     #hero {
-        background-image: url('/Images/Photos/hero.jpg');
+        background-image: url('../Images/Photos/hero.jpg');
         background-repeat: no-repeat;
         background-position: center;
         height: 400px;
