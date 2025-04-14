@@ -1,4 +1,6 @@
-fetch("https://api.openweathermap.org/data/2.5/weather?q=Cancun&appid=66321ba752eb88b22f3de6db767a89a5&units=metric")
+const proxy = "https://cors-anywhere.herokuapp.com/";
+const apiURL = "https://api.openweathermap.org/data/2.5/weather?q=Cancun&appid=66321ba752eb88b22f3de6db767a89a5&units=metric";
+fetch(proxy + apiURL)
 
 .then(response => response.json())
 .then (data => {
